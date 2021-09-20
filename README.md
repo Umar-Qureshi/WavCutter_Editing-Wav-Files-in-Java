@@ -6,6 +6,8 @@ A  Distributed Client-Server Application which edits WAV Files. The client uploa
 
 More Details found in the report: https://github.com/Umar-Qureshi/WavCutter_Editing-Wav-Files-in-Java/blob/master/WavCutter_Report-UmarQureshi.pdf
 
+Watch the Demo video here: https://drive.google.com/file/d/1Ppj3gaYH3Ug8nb5bjVrwSgQBURlS8e1Y/view?usp=sharing
+
 ## How to run
 To run this program Please first install JavaFX, I would have uploaded it but it was larger then 25mb.
 
