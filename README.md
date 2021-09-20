@@ -8,7 +8,7 @@ More Details found in the report: https://github.com/Umar-Qureshi/WavCutter_Edit
 
 ## Demo Video
 
-Watch the Demo video here: https://drive.google.com/file/d/1Ppj3gaYH3Ug8nb5bjVrwSgQBURlS8e1Y/view?usp=sharing
+Watch the Demo video here (volume warning at 0:33 and after): https://drive.google.com/file/d/1Ppj3gaYH3Ug8nb5bjVrwSgQBURlS8e1Y/view?usp=sharing
 
 ---
 
