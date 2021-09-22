@@ -4,9 +4,9 @@ This project I used Linux to make and run this program/assignment
 
 ---
 
-To run this program Please first install JavaFX, I would have uploaded it but it was larger then 25mb.
+To run this program Please first install JavaFX:
 
-Official Download link: https://gluonhq.com/products/javafx/ , I downloaded the stable version 11.02
+Official Download link: https://gluonhq.com/products/javafx/ (I downloaded the stable version)
 
 To Install JavaFX into IntelliJ follow this official guide: https://openjfx.io/openjfx-docs/#install-javafx
 
@@ -19,7 +19,7 @@ Once JavaFx and its libraries are installed properly follow the next steps:
 
 ## How to Run
 
-cd into src folder
+cd into src directory
 
 Run rmiregistry in a seperate terminal
 ```
@@ -37,7 +37,7 @@ Then open the server from src folder:
 java seperate.FileServer 
 ```
 
-Now Run Main from the ide and you will be able to use my program!
+Now Run Main.java from the ide and you will be able to use my program!
 
 ---
 Screenshot on how to run:
